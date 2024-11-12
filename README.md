@@ -1,6 +1,6 @@
 # multi_lidar_calibrator
 
-이 코드는 [Autoware](https://github.com/Ridecell/Autoware) 리포지토리에서 추출된 것을 활용하였습니다. 모든 저작권과 공로는 원저작자인 Ridecell에 귀속됩니다.
+이 코드는 [Autoware](https://github.com/Ridecell/Autoware) 리포지토리에서 추출하였습니다. 모든 저작권과 공로는 원저작자인 Ridecell에 귀속됩니다.
 
 ## 원본 리포지토리
 - URL: https://github.com/Ridecell/Autoware
