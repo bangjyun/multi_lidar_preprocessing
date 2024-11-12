@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi LiDAR Calibrator
 
 This package allows to obtain the extrinsic calibration between two PointClouds with the help of the NDT algorithm.
@@ -66,3 +67,7 @@ One is shown in gray while the other is show in blue.
 Image obtained from rviz.
 
 ![Calibration Result](doc/calibration_result.jpg)
+=======
+# multi_lidar_preprocessing
+Front &amp; Rear Lidar (velodyne) concat 
+>>>>>>> 70de7d734c3c6d277106f62e87a3eeb28b871852
